@@ -1,4 +1,5 @@
-# Speech-to-IPA: English Audio → International Phonetic Alphabet Transcription
+# Speech-to-IPA
+## English Audio → International Phonetic Alphabet Transcription
 
 A fine-tuned speech recognition model that converts English audio into International Phonetic Alphabet (IPA) transcriptions, built on top of Facebook's `wav2vec2-large-xlsr-53` model.
 
